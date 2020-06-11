@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="E_learning" />
         <module name="Oauth2AutherizationServer" />
+        <module name="WebsocketChat" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +17,7 @@
       <module name="Oauth2AutherizationServer" target="1.8" />
       <module name="Oauth2RestServices" target="1.8" />
       <module name="OauthRestService" target="1.5" />
+      <module name="WebsocketChat" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -23,6 +25,7 @@
       <module name="E_learning" options="-parameters" />
       <module name="Oauth2AutherizationServer" options="-parameters" />
       <module name="Oauth2RestServices" options="-parameters" />
+      <module name="WebsocketChat" options="-parameters" />
     </option>
   </component>
 </project>

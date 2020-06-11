@@ -11,5 +11,6 @@
   <modules>
     <module>Oauth2AutherizationServer</module>
     <module>E_Learning</module>
+      <module>WebsocketChat</module>
   </modules>
 </project>
